@@ -1,0 +1,3 @@
+Topping: cheese, ardei
+Sauce: tomato
+Price: 50 lei
