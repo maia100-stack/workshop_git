@@ -1,3 +1,4 @@
-Topping: cheese
+Topping: cheese, ardei
 Sauce: tomato
 Price: 100 lei
+overpriced
